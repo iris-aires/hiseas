@@ -47,4 +47,4 @@
 
 ## 5、使用
 
-[参考文章](https://www.zhengxiang.cc/blog/01-devops-environment-prepare/devops-environment-prepare)
+[参考文章](https://zhengxiang.cc/blog/?tag=Kubernetes)
