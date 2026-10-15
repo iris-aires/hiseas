@@ -451,6 +451,6 @@ config/       Feign interceptors and application configuration
 
 ## 13. References and License
 
-- Deployment and infrastructure notes: <https://zhengxiang.cc/blog/?tag=Kubernetes>
+- Deployment and infrastructure notes: <https://zhengxiang.cc/blog?tag=Infrastructure>
 - Sa-Token documentation: <https://sa-token.cc/>
 - License: see [LICENCE](./LICENCE).
